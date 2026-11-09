@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/guardmypi-site/static/css/main.62b3444e.chunk.css",
+    "main.js": "/guardmypi-site/static/js/main.6d1bca2c.chunk.js",
+    "runtime-main.js": "/guardmypi-site/static/js/runtime-main.b6abfa24.js",
+    "static/js/2.5ea921d4.chunk.js": "/guardmypi-site/static/js/2.5ea921d4.chunk.js",
+    "index.html": "/guardmypi-site/index.html",
+    "static/js/2.5ea921d4.chunk.js.LICENSE.txt": "/guardmypi-site/static/js/2.5ea921d4.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/guardmypi-site/static/media/svg-1.33093397.svg",
+    "static/media/svg-2.svg": "/guardmypi-site/static/media/svg-2.e9858a1b.svg",
+    "static/media/svg-3.1303bf65.svg": "/guardmypi-site/static/media/svg-3.1303bf65.svg",
+    "static/media/svg-4.svg": "/guardmypi-site/static/media/svg-4.4904d780.svg",
+    "static/media/svg-6.c5fd05b0.svg": "/guardmypi-site/static/media/svg-6.c5fd05b0.svg",
+    "static/media/svg-7.ff2b2030.svg": "/guardmypi-site/static/media/svg-7.ff2b2030.svg",
+    "static/media/video.52e8933b.mp4": "/guardmypi-site/static/media/video.52e8933b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6abfa24.js",
+    "static/js/2.5ea921d4.chunk.js",
+    "static/css/main.62b3444e.chunk.css",
+    "static/js/main.6d1bca2c.chunk.js"
+  ]
+}
