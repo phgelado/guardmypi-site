@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/guardmypi-site/static/css/main.62b3444e.chunk.css",
-    "main.js": "/guardmypi-site/static/js/main.6d1bca2c.chunk.js",
+    "main.js": "/guardmypi-site/static/js/main.e8686949.chunk.js",
     "runtime-main.js": "/guardmypi-site/static/js/runtime-main.b6abfa24.js",
-    "static/js/2.5ea921d4.chunk.js": "/guardmypi-site/static/js/2.5ea921d4.chunk.js",
+    "static/js/2.9a6b594e.chunk.js": "/guardmypi-site/static/js/2.9a6b594e.chunk.js",
     "index.html": "/guardmypi-site/index.html",
-    "static/js/2.5ea921d4.chunk.js.LICENSE.txt": "/guardmypi-site/static/js/2.5ea921d4.chunk.js.LICENSE.txt",
+    "static/js/2.9a6b594e.chunk.js.LICENSE.txt": "/guardmypi-site/static/js/2.9a6b594e.chunk.js.LICENSE.txt",
     "static/media/svg-1.svg": "/guardmypi-site/static/media/svg-1.33093397.svg",
     "static/media/svg-2.svg": "/guardmypi-site/static/media/svg-2.e9858a1b.svg",
     "static/media/svg-3.1303bf65.svg": "/guardmypi-site/static/media/svg-3.1303bf65.svg",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b6abfa24.js",
-    "static/js/2.5ea921d4.chunk.js",
+    "static/js/2.9a6b594e.chunk.js",
     "static/css/main.62b3444e.chunk.css",
-    "static/js/main.6d1bca2c.chunk.js"
+    "static/js/main.e8686949.chunk.js"
   ]
 }
